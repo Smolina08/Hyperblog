@@ -11,6 +11,7 @@ Ejemplo para el curso de Git y GitHub de Platzi
 * Multiples personalidades de Freddy
 * Creado por Platzi Team
 * Incluye ejemplos en diferentes SO
+* Disponible para todas las edades
 
 **Este readme es de prueba**
 
