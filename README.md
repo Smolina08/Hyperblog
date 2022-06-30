@@ -9,6 +9,7 @@ Ejemplo para el curso de Git y GitHub de Platzi
 * La buenas practicas
 * Trucos raros que serviran en futuros proyectos
 * Multiples personalidades de Freddy
+* Creado por Platzi Team
 
 **Este readme es de prueba**
 
